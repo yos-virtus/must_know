@@ -1,5 +1,5 @@
 # Things that every programmer should know
-Programming is hard. You definetly need a guidance when you are taking on something that can be that compelling. So this document is a humble attemp to alleviate one thoughest professional paths for those who chose it.
+Programming is hard. You definetly need a guidance when you are taking on something that can be that compelling. So this document is a humble attemp to alleviate one the thoughest professional paths for those who have chosen it.
 
 ## Focus on language agnostic things
 Do not underestimate the value of things like: time/space comlexity, big O notation, data structures, algorithms ect. Every technology is build on top of these concepts.
