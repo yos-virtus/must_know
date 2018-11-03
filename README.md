@@ -19,5 +19,6 @@ One of the most common mistakes especially when you are begginer is making thing
   As conterintuitive as it might sound but vertical inheritance is the weakest part of OOP. Lyskov substitution principle is all about that. You should be careful when you use base classes.
   * __Interface segregation principle__
   * __Dependency inversion principle__
+  Dependencies should be build on top of abstractions not on top of details
   
   
