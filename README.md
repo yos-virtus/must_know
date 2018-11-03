@@ -1,3 +1,6 @@
+# Focus on language agnostic things
+Do not underestimate the value of things like: time/space comlexity, big O notation, data structures, algorithms ect. Every technology is build on top of these concepts.
+
 # DRY
 
 # Keep it simple stupid
